@@ -1,0 +1,2 @@
+# Linear-and-Logistic-regression-Algorithm-using-Python
+Linear and Logistic regression algorithm has been implemented from scratch using Python. Polynomial functions of order 1,2,3,4,5 which are equivalent to linear regression were plotting against true cubic relation to demonstrate under fitting and over fitting of the models. For Logistic regression, classifier has been built using Batch gradient descent and Stochastic gradient descent to compare them in terms of accuracy
